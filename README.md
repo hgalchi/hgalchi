@@ -1,5 +1,6 @@
-
-
+# Hi! I'm yun sunmi:green_heart:
+<br>
+<br>
 <h3  align="center"> :seedling:Tech Stack:seedling:</h3>
   <div  align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -9,16 +10,18 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
   </div>
   
-<h3  align="center">:ghost: Me :ghost:</h3>
+<h3  align="center">:v: Me :v:</h3>
   <div  align="center">
     <a href=" https://www.naver.com/">
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.naver.com/"/>
     </a>
   </div>
-
-<p>
-dlsjflkdjlf<br>
-fsakjdfksaf
-</p>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgalchi&show_icons=true&theme=onedark)
+<br>
+<div align="center">
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgalchi&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=hgalchi&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+</div>
