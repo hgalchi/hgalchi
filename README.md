@@ -1,4 +1,4 @@
-# Hi! I'm yun sunmi:green_heart:
+# Hi! I'm yun sunmi:
 <br>
 <br>
 <h3  align="center"> :seedling:Tech Stack:seedling:</h3>
@@ -21,4 +21,5 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=hgalchi&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 </div>
