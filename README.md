@@ -20,6 +20,7 @@
 <div align="center">
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=hgalchi&theme=tokyonight&show_icons=true" width="42%" />
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dsazx99888)](https://solved.ac/dsazx99888)
 </a>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dsazx99888)](https://solved.ac/dsazx99888)
+ 
 </div>
